@@ -1,5 +1,7 @@
 **Company Lockers Pvt. Ltd**
+
 **Table of contents**
+
 •	General info
 •	Selection options (Select any of the following)
 •	Tools and Java Version
