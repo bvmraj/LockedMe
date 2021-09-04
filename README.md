@@ -1,13 +1,14 @@
-Company Lockers Pvt. Ltd
-Table of contents
+**Company Lockers Pvt. Ltd**
+**Table of contents**
 •	General info
 •	Selection options (Select any of the following)
 •	Tools and Java Version
 •	Sprint Planning
 •	Setup
-General info
+**
+**General info****
 A simple file handling project in Java
-Select any of the following
+**Select any of the following**
 Welcome screen displays the application name and the developer details.
  
 The details of the user interface are shown to the user. The user has to select from the options listed
@@ -28,18 +29,17 @@ a.	Add a file to the existing directory list
      d. Option to navigate back to the main context
 
 3. Third option to closes the application
-Technologies Used
+**Technologies Used**
 Project is created with:
 •	Java 8
 •	Eclipse
-FLOW
 
-SPRINT PLANNING
-LockedMeProject/Release Number1/Iteration Number1/Sprint No 1
+**SPRINT PLANNING**
+_**LockedMeProject/Release Number1/Iteration Number1/Sprint No 1**
 •	User Story 1 –Development work  user input for the options
 •	User Story 2- Development work Get the user directory and List files.
 •	Sprint 1 timelines: 3 weeks 
-LockedMeProject/Release Number1/Iteration Number1/Sprint No 2
+_**LockedMeProject/Release Number1/Iteration Number1/Sprint No 2**
 •	User Story 3 –Development work  Add a file
 •	User Story 4- Development work Search a file
 •	User Story 5 –Development work  Delete a file
